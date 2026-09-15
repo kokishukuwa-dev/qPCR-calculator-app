@@ -1,0 +1,14 @@
+{
+  "name": "qPCR 計算",
+  "short_name": "qPCR計算",
+  "description": "マスターミックスと段階希釈の量を計算する。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#2563eb",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
